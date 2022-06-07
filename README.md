@@ -8,6 +8,9 @@
 ```javascript
 const Duy = {
   pronouns: "he",
+  fullName: "Nguyễn Đức Duy",
+  birthDay: "06/11/1999",
+  email: "duylanh1818@gmail.com",
   code: [Javascript, Typescript, HTML, CSS],
   tools: [React, Redux, Node, Styled-Components],
 }
