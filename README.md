@@ -7,12 +7,13 @@
 
 ```javascript
 const Duy = {
-  pronouns: "he",
+  pronouns: "he/him",
   fullName: "Nguyễn Đức Duy",
   birthDay: "06/11/1999",
   email: "duylanh1818@gmail.com",
-  code: [Javascript, Typescript, HTML, CSS],
-  tools: [React, Redux, Node, Styled-Components],
+  code: ["JavaScript", "TypeScript", "HTML", "CSS", "SASS", "Tailwind"],
+  tools: ["React", "Next.js", "React Native", "Redux", "GraphQL", "Styled-Components"],
+  libraries: ["antd", "mui", "Framer Motion"]
 }
 ```
 
